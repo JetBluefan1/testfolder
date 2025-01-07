@@ -1,3 +1,5 @@
 hello world
 
-again x3 
+again x3
+
+git config --global user.email
